@@ -30,3 +30,19 @@
     transform: rotate(360deg);
   }
 }
+
+.App-Header{
+  background-color: #00ffac;
+  margin-top: 10px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: green;
+}
+
+.Body{
+  margin-left: 20px;
+}
